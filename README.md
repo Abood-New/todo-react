@@ -12,4 +12,3 @@ Built with modern React features including:
 - Functional components with Hooks (useState, useEffect)
 - Custom hooks for reusable logic
 - Context API for state management (optional)
-- React Testing Library for unit tests (optional)
